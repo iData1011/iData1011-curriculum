@@ -15,7 +15,7 @@ Adaptasi dari:
 ### Jalur 5:
 ### Jalur 6:
 ### Jalur 7:
-
+####
 
 ### Jalur 8 : Data Ingestion
 #### 1. Using ETL
@@ -31,3 +31,5 @@ Adaptasi dari:
 
 ### Jalur 9 : Data Munging
 #### 1. Dimensionality & Numeriosity Reduction
+### Jalur 10: Toolbox
+#### 2. Java, Python
